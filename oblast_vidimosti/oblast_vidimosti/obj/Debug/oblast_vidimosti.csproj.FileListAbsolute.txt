@@ -1,0 +1,7 @@
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\bin\Debug\oblast_vidimosti.exe.config
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\bin\Debug\oblast_vidimosti.exe
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\bin\Debug\oblast_vidimosti.pdb
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\obj\Debug\oblast_vidimosti.csprojAssemblyReference.cache
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\obj\Debug\oblast_vidimosti.csproj.CoreCompileInputs.cache
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\obj\Debug\oblast_vidimosti.exe
+C:\Users\grebn_000\source\repos\oblast_vidimosti\oblast_vidimosti\obj\Debug\oblast_vidimosti.pdb

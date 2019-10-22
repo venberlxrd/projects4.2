@@ -1,0 +1,7 @@
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\bin\Debug\obrabotka_isklucheniy.exe.config
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\bin\Debug\obrabotka_isklucheniy.exe
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\bin\Debug\obrabotka_isklucheniy.pdb
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\obj\Debug\obrabotka_isklucheniy.csprojAssemblyReference.cache
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\obj\Debug\obrabotka_isklucheniy.csproj.CoreCompileInputs.cache
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\obj\Debug\obrabotka_isklucheniy.exe
+C:\Users\grebn_000\source\repos\obrabotka_isklucheniy\obrabotka_isklucheniy\obj\Debug\obrabotka_isklucheniy.pdb

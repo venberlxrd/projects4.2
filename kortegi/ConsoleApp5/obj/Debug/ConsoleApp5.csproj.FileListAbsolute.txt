@@ -1,0 +1,10 @@
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\System.ValueTuple.xml
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CopyComplete
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\grebn_000\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

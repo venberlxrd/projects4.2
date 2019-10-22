@@ -1,0 +1,7 @@
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\bin\Debug\rekursiya.exe.config
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\bin\Debug\rekursiya.exe
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\bin\Debug\rekursiya.pdb
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\obj\Debug\rekursiya.csprojAssemblyReference.cache
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\obj\Debug\rekursiya.csproj.CoreCompileInputs.cache
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\obj\Debug\rekursiya.exe
+C:\Users\grebn_000\source\repos\rekursiya\rekursiya\obj\Debug\rekursiya.pdb
